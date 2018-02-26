@@ -7,8 +7,10 @@ package edu.ctco.school.exercise3;
  */
 class Exercise3
 {
-    class SubExercise3
-    {
-        //inner class
-    }
+
+}
+
+class SubExercise3 extends Exercise3
+{
+    //inner class
 }
