@@ -12,5 +12,4 @@ class Exercise2 {
     private int i = 2;
 
 
-
 }
