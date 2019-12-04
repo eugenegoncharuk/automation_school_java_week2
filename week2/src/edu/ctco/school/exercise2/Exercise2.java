@@ -5,9 +5,11 @@ package edu.ctco.school.exercise2;
  *
  * What are the options in this particular case?
  */
-class Exercise2 {
-    private int i;
-}
 
-class SubExercise2 extends Exercise2 {
+//ANSWER:  change private to protected or genirate geters/seters
+
+class Exercise2 {
+    private int i = 2;
+
+
 }

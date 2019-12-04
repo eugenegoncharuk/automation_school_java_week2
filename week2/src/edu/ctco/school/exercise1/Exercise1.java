@@ -5,7 +5,7 @@ package edu.ctco.school.exercise1;
  *
  * How to fix it? What are the options?
  */
-private class Exercise1
+class Exercise1
 {
     private class SubExercise1
     {
